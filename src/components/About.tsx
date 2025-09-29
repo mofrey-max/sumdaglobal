@@ -33,13 +33,13 @@ export function About() {
             <h2 className="text-4xl font-bold text-gray-900 mb-6">About Sumda Global Ventures</h2>
             <p className="text-lg text-gray-600 mb-6 leading-relaxed">
               Sumda Global Ventures Ltd. is a leading company specializing in the supply of inorganic fertilizers, 
-              sachet water production, and block manufacturing. We are dedicated to delivering exceptional products 
-              and services that support agricultural productivity, community health, and infrastructure development.
+              sachet water production, block manufacturing, and comprehensive estate agency services. We are dedicated to delivering exceptional products 
+              and services that support agricultural productivity, community health, infrastructure development, and real estate solutions.
             </p>
             <p className="text-lg text-gray-600 mb-8 leading-relaxed">
               Our commitment extends beyond just business – we strive to create positive impacts in the communities 
               we serve, supporting farmers with quality fertilizers, providing clean water access, and supplying 
-              reliable construction materials for building stronger communities.
+              reliable construction materials, and offering professional real estate services for building stronger communities.
             </p>
             
             <div className="flex flex-wrap gap-6">
@@ -52,7 +52,7 @@ export function About() {
                 <div className="text-sm text-gray-600">Happy Clients</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-green-600">3</div>
+                <div className="text-3xl font-bold text-green-600">4</div>
                 <div className="text-sm text-gray-600">Core Services</div>
               </div>
             </div>

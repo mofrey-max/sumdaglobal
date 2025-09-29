@@ -34,7 +34,7 @@ export function CEO() {
           <div className="relative">
             <div className="relative overflow-hidden rounded-2xl shadow-2xl">
               <img
-                src="https://images.pexels.com/photos/1216589/pexels-photo-1216589.jpeg?auto=compress&cs=tinysrgb&w=600&h=700&fit=crop"
+                src="https://drive.google.com/file/d/1_CaEwSPVpPrJBTRaicbNj0FEhKS0hKuW/view?usp=drive_link"
                 alt="CEO of Sumda Global Ventures"
                 className="w-full h-96 object-cover"
               />
@@ -53,15 +53,15 @@ export function CEO() {
           {/* CEO Content */}
           <div>
             <div className="mb-6">
-              <h3 className="text-3xl font-bold text-gray-900 mb-2">John Kwame Asante</h3>
+              <h3 className="text-3xl font-bold text-gray-900 mb-2">Bilal Bello Sumda</h3>
               <p className="text-lg text-green-600 font-semibold mb-4">Chief Executive Officer</p>
               <p className="text-gray-600 leading-relaxed mb-6">
-                With over 15 years of experience in agricultural supply chains, water production, 
-                and construction materials, John has been the driving force behind Sumda Global 
+                With extensive expertise in forest resources management and agricultural development, 
+                Bilal has been the driving force behind Sumda Global 
                 Ventures' remarkable growth and community impact.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                His vision of sustainable business practices and community empowerment has 
+                His background in forestry, wildlife management, and cooperative leadership has 
                 positioned the company as a trusted partner for farmers, communities, and 
                 construction professionals across Ghana.
               </p>
@@ -73,15 +73,15 @@ export function CEO() {
               <ul className="space-y-2 text-sm text-gray-600">
                 <li className="flex items-center">
                   <div className="w-2 h-2 bg-green-600 rounded-full mr-3"></div>
-                  MBA in Business Administration - University of Ghana
+                  MSc in Forest Resources Management and Product Utilization (Forest Resources Economics and Policy)
                 </li>
                 <li className="flex items-center">
                   <div className="w-2 h-2 bg-green-600 rounded-full mr-3"></div>
-                  BSc. Agricultural Engineering - Kwame Nkrumah University
+                  B.Tech Forestry and Wildlife Management
                 </li>
                 <li className="flex items-center">
                   <div className="w-2 h-2 bg-green-600 rounded-full mr-3"></div>
-                  Former Senior Manager at Ghana Agricultural Development Bank
+                  Secretary, Gainako Farmer Cooperative Society LTD
                 </li>
               </ul>
             </div>
@@ -95,11 +95,12 @@ export function CEO() {
             <div>
               <blockquote className="text-lg text-gray-700 italic leading-relaxed mb-4">
                 "Our mission goes beyond just supplying products. We're building sustainable 
-                communities by providing farmers with quality fertilizers, ensuring clean water 
-                access, and supporting infrastructure development. Every decision we make is 
-                guided by our commitment to excellence and community empowerment."
+                communities through sustainable forest resource management, providing farmers with 
+                quality fertilizers, ensuring clean water access, and supporting infrastructure 
+                development. Every decision we make is guided by our commitment to environmental 
+                sustainability and community empowerment."
               </blockquote>
-              <cite className="text-green-600 font-semibold">- John Kwame Asante, CEO</cite>
+              <cite className="text-green-600 font-semibold">- Bilal Bello Sumda, CEO</cite>
             </div>
           </div>
         </div>

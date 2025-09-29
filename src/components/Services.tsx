@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Leaf, Droplets, Building2, ArrowRight, ChevronDown, ChevronUp } from 'lucide-react';
+import { Leaf, Droplets, Building2, Home, ArrowRight, ChevronDown, ChevronUp } from 'lucide-react';
 
 const services = [
   {
@@ -54,6 +54,25 @@ const services = [
       ],
       benefits: ['High compressive strength (>7 N/mm²)', 'Consistent quality and dimensions', 'Weather-resistant properties', 'Competitive bulk pricing', 'Technical support and consultation']
     }
+  },
+  {
+    id: 'estate',
+    title: 'Estate Agency Services',
+    description: 'Professional real estate services including property sales, rentals, property management, and investment consultation for residential and commercial properties.',
+    image: 'https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop',
+    icon: Home,
+    features: ['Property Sales', 'Rental Services', 'Property Management'],
+    detailedInfo: {
+      overview: 'Our comprehensive estate agency services cover all aspects of real estate transactions and property management. We provide expert guidance for buyers, sellers, landlords, and tenants across residential and commercial properties.',
+      products: [
+        { name: 'Residential Sales', description: 'Complete sales service for houses, apartments, and land with market analysis and negotiation support' },
+        { name: 'Commercial Properties', description: 'Office spaces, retail locations, and industrial properties for sale or lease' },
+        { name: 'Property Rentals', description: 'Tenant matching, lease agreements, and rental management services' },
+        { name: 'Property Management', description: 'Full-service property maintenance, rent collection, and tenant relations' },
+        { name: 'Investment Consultation', description: 'Real estate investment advice and portfolio management services' }
+      ],
+      benefits: ['Licensed and certified agents', 'Extensive property database', 'Market expertise and valuation services', 'Legal documentation support', 'After-sales property management', '24/7 customer support']
+    }
   }
 ];
 
@@ -75,7 +94,7 @@ export function Services() {
           </p>
         </div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {services.map((service) => (
             <div
               key={service.id}

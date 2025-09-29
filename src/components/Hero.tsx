@@ -15,14 +15,14 @@ export function Hero({ scrollToSection }: HeroProps) {
     >
       <div className="text-center text-white px-4 sm:px-6 lg:px-8 max-w-4xl">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 leading-tight">
-          Leading the way in fertilizer supply,{' '}
+          Leading the way in fertilizer supply, real estate,{' '}
           <span className="text-green-400">clean water</span>, and{' '}
           <span className="text-green-400">construction solutions</span>
         </h1>
         
         <p className="text-xl sm:text-2xl mb-8 text-gray-200 leading-relaxed">
           Your trusted partner for high-quality inorganic fertilizers, 
-          clean sachet water production, and reliable block manufacturing.
+          clean sachet water production, reliable block manufacturing, and professional estate agency services.
         </p>
         
         <button

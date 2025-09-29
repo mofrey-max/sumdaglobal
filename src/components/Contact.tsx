@@ -50,7 +50,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Email</h4>
-                  <p className="text-gray-600">info@sumdaglobal.com</p>
+                  <p className="text-gray-600">sumdaglobalventureslimited@gmail.com</p>
                 </div>
               </div>
               
@@ -60,7 +60,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Phone</h4>
-                  <p className="text-gray-600">+233 XX XXX XXXX</p>
+                  <p className="text-gray-600"> +234 803 872 1987</p>
                 </div>
               </div>
               
@@ -71,8 +71,8 @@ export function Contact() {
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
                   <p className="text-gray-600">
-                    123 Business District<br />
-                    Accra, Ghana
+                    After Al-Hamsar Nigeria Limited, Along <br />
+                    Mubi Sangere Futy, Adamawa
                   </p>
                 </div>
               </div>

@@ -20,7 +20,7 @@ export function Footer() {
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Leading provider of inorganic fertilizers, clean sachet water production, 
-              and quality block manufacturing. Building stronger communities through 
+              quality block manufacturing, and professional estate agency services. Building stronger communities through 
               quality products and reliable services.
             </p>
             <div className="flex space-x-4">
@@ -82,6 +82,7 @@ export function Footer() {
               <li className="text-gray-400">Inorganic Fertilizers</li>
               <li className="text-gray-400">Sachet Water Production</li>
               <li className="text-gray-400">Block Manufacturing</li>
+              <li className="text-gray-400">Estate Agency Services</li>
             </ul>
           </div>
         </div>
