@@ -34,7 +34,7 @@ export function CEO() {
           <div className="relative">
             <div className="relative overflow-hidden rounded-2xl shadow-2xl">
               <img
-                src="public/ceo.jpg"
+                src="public/assets/ceo.jpg"
                 alt="CEO of Sumda Global Ventures"
                 className="w-full h-96 object-cover"
               />

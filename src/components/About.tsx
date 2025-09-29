@@ -61,7 +61,7 @@ export function About() {
           {/* Image */}
           <div className="relative">
             <img
-              src="public/supply.jpg"
+              src="public/assets/supply.png"
               alt="About Sumda Global Ventures"
               className="rounded-2xl shadow-2xl"
             />

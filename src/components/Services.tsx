@@ -6,7 +6,7 @@ const services = [
     id: 'fertilizers',
     title: 'Inorganic Fertilizers',
     description: 'Premium quality inorganic fertilizers to boost crop yields and ensure sustainable farming practices for agricultural communities.',
-    image: 'fertilizer.jpg',
+    image: '/public/assets/fertilizer.png',
     icon: Leaf,
     features: ['NPK Fertilizers', 'Soil Enhancers', 'Crop-Specific Formulations'],
     detailedInfo: {
@@ -22,9 +22,9 @@ const services = [
   },
   {
     id: 'water',
-    title: 'Sachet Water Production',
+    title: 'Water Production',
     description: 'Clean, safe, and affordable sachet water production serving communities with reliable access to pure drinking water.',
-    image: 'public/water.jpg',
+    image: 'public/assets/water.png',
     icon: Droplets,
     features: ['Pure Water Processing', 'Quality Assurance', 'Community Distribution'],
     detailedInfo: {
@@ -41,7 +41,7 @@ const services = [
     id: 'blocks',
     title: 'Block Production',
     description: 'Durable and high-quality building blocks for construction projects, supporting infrastructure development across communities.',
-    image: 'public/brics.jpg',
+    image: 'public/assets/brics.jpg',
     icon: Building2,
     features: ['Concrete Blocks', 'Custom Sizes', 'Quality Standards'],
     detailedInfo: {
