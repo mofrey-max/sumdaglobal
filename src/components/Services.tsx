@@ -41,7 +41,7 @@ const services = [
     id: 'blocks',
     title: 'Block Production',
     description: 'Durable and high-quality building blocks for construction projects, supporting infrastructure development across communities.',
-    image: 'public/brics  .jpg',
+    image: 'public/brics.jpg',
     icon: Building2,
     features: ['Concrete Blocks', 'Custom Sizes', 'Quality Standards'],
     detailedInfo: {
