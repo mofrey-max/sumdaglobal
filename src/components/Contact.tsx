@@ -79,8 +79,11 @@ export function Contact() {
             </div>
             
             <div className="mt-12">
-              <div class="embed-map-responsive"><div class="embed-map-container"><iframe class="embed-map-frame" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&height=400&hl=en&q=Al-Hamsar%20Nigeria%20Limited%2C%20Along%20Mubi%20Sangere%20Futy%2C%20Adamawa&t=&z=11&ie=UTF8&iwloc=B&output=embed"></iframe><a href="https://sprunkiretake.net" style="font-size:2px!important;color:gray!important;position:absolute;bottom:0;left:0;z-index:1;max-height:1px;overflow:hidden">sprunki retake</a></div><style>.embed-map-responsive{position:relative;text-align:right;width:100%;height:0;padding-bottom:66.66666666666666%;}.embed-map-container{overflow:hidden;background:none!important;width:100%;height:100%;position:absolute;top:0;left:0;}.embed-map-frame{width:100%!important;height:100%!important;position:absolute;top:0;left:0;}</style></div>
-            </div>
+                <img
+                src="https://images.pexels.com/photos/1000084/pexels-photo-1000084.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
+                alt="Contact us"
+                className="rounded-2xl shadow-lg"
+              />
           </div>
           
           {/* Contact Form */}
