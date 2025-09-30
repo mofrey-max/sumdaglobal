@@ -10,7 +10,7 @@ export function Hero({ scrollToSection }: HeroProps) {
       id="home"
       className="relative min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://images.pexels.com/photos/6129507/pexels-photo-6129507.jpeg?auto=compress&cs=tinysrgb&w=1920&h=1280&fit=crop')`
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/assets/banner.png')`
       }}
     >
       <div className="text-center text-white px-4 sm:px-6 lg:px-8 max-w-4xl">

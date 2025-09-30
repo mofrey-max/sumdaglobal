@@ -28,7 +28,7 @@ export function Contact() {
   };
 
   return (
-    <section id="contact" className="py-20 bg-gray-50">
+     <section id="contact" className="py-20 bg-gray-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">Get In Touch</h2>
@@ -60,7 +60,7 @@ export function Contact() {
                 </div>
                 <div>
                   <h4 className="font-semibold text-gray-900">Phone</h4>
-                  <p className="text-gray-600"> +234 803 872 1987</p>
+                  <p className="text-gray-600">+234 803 872 1987</p>
                 </div>
               </div>
               
@@ -71,7 +71,7 @@ export function Contact() {
                 <div>
                   <h4 className="font-semibold text-gray-900">Address</h4>
                   <p className="text-gray-600">
-                    After Al-Hamsar Nigeria Limited, Along <br />
+                   After Al-Hamsar Nigeria Limited, Along <br />
                     Mubi Sangere Futy, Adamawa
                   </p>
                 </div>
@@ -79,11 +79,12 @@ export function Contact() {
             </div>
             
             <div className="mt-12">
-                <img
-                src="https://images.pexels.com/photos/1000084/pexels-photo-1000084.jpeg?auto=compress&cs=tinysrgb&w=800&h=600&fit=crop"
+              <img
+                src="/assets/fertilizer.png"
                 alt="Contact us"
                 className="rounded-2xl shadow-lg"
               />
+            </div>
           </div>
           
           {/* Contact Form */}
@@ -157,7 +158,6 @@ export function Contact() {
             )}
           </div>
         </div>
-      </div>
       </div>
     </section>
   );
