@@ -18,7 +18,6 @@ export function Header({ currentSection, setCurrentSection, scrollToSection }: H
   const navItems = [
     { id: 'home', label: 'Home' },
     { id: 'services', label: 'Services' },
-    { id: 'ceo', label: 'Leadership' },
     { id: 'about', label: 'About Us' },
     { id: 'contact', label: 'Contact' }
   ];

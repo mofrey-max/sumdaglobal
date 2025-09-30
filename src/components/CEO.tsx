@@ -63,7 +63,7 @@ export function CEO() {
               <p className="text-gray-600 leading-relaxed">
                 His background in forestry, wildlife management, and cooperative leadership has 
                 positioned the company as a trusted partner for farmers, communities, and 
-                construction professionals across Ghana.
+                construction professionals across Nigeria.
               </p>
             </div>
 
